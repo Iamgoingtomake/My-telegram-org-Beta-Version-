@@ -1,5 +1,14 @@
 # MyTelegramOrgRoBot
 
+## Required To Read
+This is only a Beta version 
+Real Source Code Written By Me is Private 
+Some Asked Me to Give Source Code 
+So i import it from other Repo
+This code is not mine
+You Can Follow me On t.me.HyetelegramBots
+
+
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
 ### ⚠ legal DISclaimER 🚸
